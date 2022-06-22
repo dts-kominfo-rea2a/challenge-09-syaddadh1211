@@ -1,0 +1,8 @@
+.hr1 {
+  border-bottom-style: dotted;
+  border-color: rgb(107, 79, 45);
+  width: auto fit-content;
+  height: 10px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
